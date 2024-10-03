@@ -11,7 +11,9 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 [TKDE'19] A Revisit of Hashing Algorithms for Approximate Nearest Neighbor Search.
 
-[NIPS'15] Practical and Optimal LSH for Angular Distance.
+[NIPS'15] Practical and Optimal LSH for Angular Distance. [blog](https://cf020031308.github.io/papers/2015-practical-and-optimal-lsh-for-angular-distance/)
+
+[STOC'15] Optimal Data-Dependent Hashing for Approximate Near Neighbors. [talk](https://www.youtube.com/watch?v=yIkyeackISs)
 
 [VLDB'07] Multi-Probe LSH: Efficient Indexing for High-Dimensional Similarity Search. [blog](https://cf020031308.github.io/papers/2007-multi-probe-lsh-efficient-indexing-for-high-dimensional-similarity-search/) 
 
