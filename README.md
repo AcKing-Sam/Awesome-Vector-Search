@@ -1,6 +1,8 @@
 # awesome-ANNS
 Everything you always wanted to know about ANNS but were afraid to ask 🥰
 
+# Papers
+
 ## Learned
 
 ## LSH
@@ -14,4 +16,12 @@ Everything you always wanted to know about ANNS but were afraid to ask 🥰
 ## Quantization
 
 ## Tree
+
+# Books
+
+
+# Blogs & Talks
+
+
+# Implementation
 
