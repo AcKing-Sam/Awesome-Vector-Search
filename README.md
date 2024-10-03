@@ -11,6 +11,8 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 [TKDE'19] A Revisit of Hashing Algorithms for Approximate Nearest Neighbor Search.
 
+[NIPS'15] Practical and Optimal LSH for Angular Distance.
+
 ## Clustering
 
 ## Graph
