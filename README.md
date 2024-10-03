@@ -13,6 +13,8 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 [NIPS'15] Practical and Optimal LSH for Angular Distance.
 
+[VLDB'07] Multi-Probe LSH: Efficient Indexing for High-Dimensional Similarity Search.
+
 ## Clustering
 
 ## Graph
