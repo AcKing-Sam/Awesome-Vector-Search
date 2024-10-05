@@ -34,7 +34,12 @@ https://zhuanlan.zhihu.com/p/133526632
 # Books
 
 
-# Blogs & Talks
+# Blogs & Talks & Tutorials
+## SIMD
+[SIMD Programming(A little out of data, using VMX and MMX)](https://ftp.cvut.cz/kernel/people/geoff/cell/ps3-linux-docs/CellProgrammingTutorial/BasicsOfSIMDProgramming.html)
+
+## CUDA
+
 
 
 # Implementation
