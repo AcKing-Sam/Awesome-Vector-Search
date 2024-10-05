@@ -27,6 +27,10 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 ## Tree
 
+## MIPS (Maximum Inner Product Search)
+### Good blogs
+https://zhuanlan.zhihu.com/p/133526632
+
 # Books
 
 
