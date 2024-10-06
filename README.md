@@ -36,7 +36,7 @@ https://zhuanlan.zhihu.com/p/133526632
 
 # Blogs & Talks & Tutorials
 ## SIMD
-[SIMD Programming(A little out of data, using VMX and MMX)](https://ftp.cvut.cz/kernel/people/geoff/cell/ps3-linux-docs/CellProgrammingTutorial/BasicsOfSIMDProgramming.html)
+[SIMD Programming(A little out of date, using VMX and MMX)](https://ftp.cvut.cz/kernel/people/geoff/cell/ps3-linux-docs/CellProgrammingTutorial/BasicsOfSIMDProgramming.html)
 
 ## CUDA
 
