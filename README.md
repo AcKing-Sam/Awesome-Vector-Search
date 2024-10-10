@@ -7,6 +7,10 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 ## Learned
 
+### Learned Representation of Vectors
+[NIPS'23] AdANNS: A Framework for Adaptive Semantic Search.
+[NIPS'22] Matryoshka Representation Learning.
+
 ## LSH
 
 [TKDE'19] A Revisit of Hashing Algorithms for Approximate Nearest Neighbor Search.
