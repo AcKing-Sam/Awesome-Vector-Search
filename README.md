@@ -4,6 +4,9 @@ This repo is going to update frequently.
 Welcome any advice or questions, feel free to send emails to connect with me.
 
 # Papers
+## Disk-memory
+[CIKM'19] GRIP: Multi-Store Capacity-Optimized High-Performance Nearest Neighbor Search for Vector Search Engine. [blog](https://blog.csdn.net/whenever5225/article/details/126263684)
+[NIPS'20] HM-ANN: Efficient Billion-Point Nearest Neighbor Search on Heterogeneous Memory. [blog](https://zhuanlan.zhihu.com/p/398199711)
 
 ## Learned
 
@@ -29,6 +32,8 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 [WWW'11] Efficient K-Nearest Neighbor Graph Construction for Generic Similarity Measures. [blog](https://blog.csdn.net/whenever5225/article/details/105598694)
 
 [PR'19] Hierarchical Clustering-Based Graphs for Large Scale Approximate Nearest Neighbor Search. [blog](https://whenever5225.github.io/2019/08/17/HCNNG/)
+
+[WSDM'22] GraSP: Optimizing Graph-based Nearest Neighbor Search with Subgraph Sampling and Pruning. [blog](https://blog.csdn.net/whenever5225/article/details/123945859)
 
 ## Quantization
 
