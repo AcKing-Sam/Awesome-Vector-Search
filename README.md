@@ -6,6 +6,7 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 # Papers
 ## Disk-memory
 [CIKM'19] GRIP: Multi-Store Capacity-Optimized High-Performance Nearest Neighbor Search for Vector Search Engine. [blog](https://blog.csdn.net/whenever5225/article/details/126263684)
+
 [NIPS'20] HM-ANN: Efficient Billion-Point Nearest Neighbor Search on Heterogeneous Memory. [blog](https://zhuanlan.zhihu.com/p/398199711)
 
 [BD'23] LM-DiskANN: Low Memory Footprint in Disk-Native Dynamic Graph-Based ANN Indexing. 
@@ -22,6 +23,7 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 ### Learned Representation of Vectors
 [NIPS'23] AdANNS: A Framework for Adaptive Semantic Search.
+
 [NIPS'22] Matryoshka Representation Learning.
 
 ## LSH
