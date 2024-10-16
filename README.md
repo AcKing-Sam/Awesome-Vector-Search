@@ -8,7 +8,14 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 [CIKM'19] GRIP: Multi-Store Capacity-Optimized High-Performance Nearest Neighbor Search for Vector Search Engine. [blog](https://blog.csdn.net/whenever5225/article/details/126263684)
 [NIPS'20] HM-ANN: Efficient Billion-Point Nearest Neighbor Search on Heterogeneous Memory. [blog](https://zhuanlan.zhihu.com/p/398199711)
 
+[BD'23] LM-DiskANN: Low Memory Footprint in Disk-Native Dynamic Graph-Based ANN Indexing. 
+
 ## Learned
+[ICLR'20] Learning Space Partitions for Nearest Neighbor Search. [blog](https://www.modb.pro/db/1694305444256894976)
+
+[TPAMI'19] Learning to Index for Nearest Neighbor Search. 
+
+[ICML'19] Learning to Route in Similarity Graphs. 
 
 ### Knowledge Distillation of Indexes
 [NIPS'23] Knowledge Distillation for High Dimensional Search Index.
