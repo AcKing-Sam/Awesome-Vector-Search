@@ -4,6 +4,22 @@ This repo is going to update frequently.
 Welcome any advice or questions, feel free to send emails to connect with me.
 
 # Papers
+## Disk or Second-tier Memory
+[ATC'24] Scalable Billion-point Approximate Nearest Neighbor Search Using SmartSSDs.
+
+[SIGMOD'24] Starling: An I/O-Efficient Disk-Resident Graph Index Framework for High-Dimensional Vector Similarity Search on Data Segment.
+
+[CIKM'19] GRIP: Multi-Store Capacity-Optimized High-Performance Nearest Neighbor Search for Vector Search Engine.
+
+[ArXiv'24] Characterizing the Dilemma of Performance and Index Size in Billion-Scale Vector Search and Breaking It with Second-Tier Memory.
+
+## Multi-core
+
+[PPoPP'23] iQAN : Fast and Accurate Vector Search with Efficient Intra-Query Parallelism on Multi-Core Architectures.
+
+[PPoPP'24] ParlayANN: Scalable and Deterministic Parallel Graph-Based Approximate Nearest Neighbor Search Algorithms.
+
+
 ## Disk-memory
 [CIKM'19] GRIP: Multi-Store Capacity-Optimized High-Performance Nearest Neighbor Search for Vector Search Engine. [blog](https://blog.csdn.net/whenever5225/article/details/126263684)
 
@@ -38,7 +54,6 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 [VLDB'24] DET-LSH: A Locality-Sensitive Hashing Scheme with Dynamic Encoding Tree for Approximate Nearest Neighbor Search.
 
-## Clustering
 
 ## Graph
 [WWW'11] Efficient K-Nearest Neighbor Graph Construction for Generic Similarity Measures. [blog](https://blog.csdn.net/whenever5225/article/details/105598694)
@@ -50,6 +65,7 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 [VLDB'22] HVS: Hierarchical Graph Structure Based on Voronoi Diagrams for Solving Approximate Nearest Neighbor Search. [blog](https://blog.csdn.net/whenever5225/article/details/126268099)
 
 ## Quantization
+[CVPR'12] The Inverted Multi-Index.
 
 ## Tree
 
