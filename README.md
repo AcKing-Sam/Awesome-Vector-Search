@@ -4,6 +4,9 @@ This repo is going to update frequently.
 Welcome any advice or questions, feel free to send emails to connect with me.
 
 # Papers
+## Saerch
+[KDD'20] Embedding-based Retrieval in Facebook Search. [blog](https://wulc.me/2020/08/30/%E3%80%8AEmbedding-based%20Retrieval%20in%20Facebook%20Search%E3%80%8B%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/)
+
 ## Disk or Second-tier Memory
 [ATC'24] Scalable Billion-point Approximate Nearest Neighbor Search Using SmartSSDs.
 
@@ -28,6 +31,8 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 [BD'23] LM-DiskANN: Low Memory Footprint in Disk-Native Dynamic Graph-Based ANN Indexing. 
 
 ## Learned
+[SIGMOD'18] The Case For Learned Index Structures. [blog]()
+
 [ICLR'20] Learning Space Partitions for Nearest Neighbor Search. [blog](https://www.modb.pro/db/1694305444256894976)
 
 [TPAMI'19] Learning to Index for Nearest Neighbor Search. 
