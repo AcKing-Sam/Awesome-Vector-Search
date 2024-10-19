@@ -91,6 +91,10 @@ https://zhuanlan.zhihu.com/p/133526632
 
 ## CUDA
 
+## C++
+https://eecs280staff.github.io/notes/
+
+https://changkun.de/modern-cpp/
 
 
 # Implementation
