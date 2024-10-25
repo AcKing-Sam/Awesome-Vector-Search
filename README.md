@@ -83,6 +83,8 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 ## MIPS (Maximum Inner Product Search)
 
+[ICDE'24] Efficient Approximate Maximum Inner Product Search over Sparse Vectors.
+
 ### Good blogs
 https://zhuanlan.zhihu.com/p/133526632
 
