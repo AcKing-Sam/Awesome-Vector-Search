@@ -109,5 +109,7 @@ https://changkun.de/modern-cpp/
 
 [Effective Modern C++](https://cntransgroup.github.io/EffectiveModernCppChinese/)
 
+https://paul.pub/cpp-concurrency/
+
 # Implementation
 
