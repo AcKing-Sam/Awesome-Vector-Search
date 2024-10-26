@@ -102,6 +102,9 @@ https://eecs280staff.github.io/notes/
 
 https://changkun.de/modern-cpp/
 
+[C++ Concurrency](https://nj.gitbooks.io/c/content/content/chapter1/chapter1-chinese.html)
+
+[Effective Modern C++](https://cntransgroup.github.io/EffectiveModernCppChinese/)
 
 # Implementation
 
