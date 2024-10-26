@@ -92,6 +92,9 @@ https://zhuanlan.zhihu.com/p/133526632
 
 
 # Blogs & Talks & Tutorials
+## Tools
+[tmux tutorial](https://docs.hpc.sjtu.edu.cn/login/tmux.html#)
+
 ## SIMD
 [SIMD Programming(A little out of date, using VMX and MMX)](https://ftp.cvut.cz/kernel/people/geoff/cell/ps3-linux-docs/CellProgrammingTutorial/BasicsOfSIMDProgramming.html)
 
