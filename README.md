@@ -115,7 +115,9 @@ https://changkun.de/modern-cpp/
 
 [Effective Modern C++](https://cntransgroup.github.io/EffectiveModernCppChinese/)
 
-https://paul.pub/cpp-concurrency/
+[C++ Memory Model.blog](https://paul.pub/cpp-memory-model/)
+
+[C++ Concurrency.blog](https://paul.pub/cpp-concurrency/)
 
 # Implementation
 
