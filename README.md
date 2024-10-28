@@ -7,6 +7,7 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 ## Information Retrieval
 [ICLR'21] Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval. [blog](https://zhuanlan.zhihu.com/p/685457581)
 
+## Sparse Vector
 [SIGIR'24] Efficient Inverted Indexes for Approximate Retrieval over Learned Sparse Representations.
 
 [CIKM'24] Pairing Clustered Inverted Indexes with 𝜅-NN Graphs for Fast Approximate Retrieval over Learned Sparse Representations.
@@ -81,9 +82,14 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 ## Tree
 
+## OOD
+[VLDB'24] RoarGraph: A Projected Bipartite Graph for Efficient Cross-Modal Approximate Nearest Neighbor Search.
+
 ## MIPS (Maximum Inner Product Search)
 
 [ICDE'24] Efficient Approximate Maximum Inner Product Search over Sparse Vectors.
+
+[SIGIR'24] 
 
 ### Good blogs
 https://zhuanlan.zhihu.com/p/133526632
