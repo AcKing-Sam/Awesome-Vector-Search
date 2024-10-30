@@ -77,6 +77,13 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 [VLDB'22] HVS: Hierarchical Graph Structure Based on Voronoi Diagrams for Solving Approximate Nearest Neighbor Search. [blog](https://blog.csdn.net/whenever5225/article/details/126268099)
 
+[MM'23] Relative NN-Descent: A Fast Index Construction for Graph-Based Approximate Nearest Neighbor Search.
+
+[VLDB'21] A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search.
+
+[ICMR'24] An Exploration Graph with Continuous Refinement for Efficient Multimedia Retrieval.
+
+
 ## Quantization
 [CVPR'12] The Inverted Multi-Index.
 
