@@ -83,6 +83,8 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 [ICMR'24] An Exploration Graph with Continuous Refinement for Efficient Multimedia Retrieval.
 
+[arxiv'24] Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search.
+
 
 ## Quantization
 [CVPR'12] The Inverted Multi-Index.
