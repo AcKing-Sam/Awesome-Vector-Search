@@ -85,6 +85,8 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 [arxiv'24] Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search.
 
+[CVPR'18] Link and code: Fast indexing with graphs and compact regression codes. [blog](https://whenever5225.github.io/2021/10/30/Link_and_code_2021/)
+
 
 ## Quantization
 [CVPR'12] The Inverted Multi-Index.
