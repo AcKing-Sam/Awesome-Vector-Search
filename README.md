@@ -132,5 +132,8 @@ https://changkun.de/modern-cpp/
 
 [C++ Concurrency.blog](https://paul.pub/cpp-concurrency/)
 
+## Linear Algebra
+[SVD](https://www.bilibili.com/video/BV1ExWxesEVf/)
+
 # Implementation
 
