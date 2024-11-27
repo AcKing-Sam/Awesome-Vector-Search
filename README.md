@@ -89,7 +89,7 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 
 ## Quantization
-[CVPR'12] The Inverted Multi-Index.
+[CVPR'12] The Inverted Multi-Index. [blog1](https://zhuanlan.zhihu.com/p/628850724) [blog2](https://zhuanlan.zhihu.com/p/130792944)
 
 ## Tree
 
