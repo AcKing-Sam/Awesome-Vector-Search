@@ -121,6 +121,8 @@ https://zhuanlan.zhihu.com/p/133526632
 
 https://hpcwiki.io/gpu/cuda/
 
+https://face2ai.com/program-blog/#GPU%E7%BC%96%E7%A8%8B%EF%BC%88CUDA%EF%BC%89
+
 ## C++
 https://eecs280staff.github.io/notes/
 
