@@ -3,6 +3,8 @@ Everything you always wanted to know about ANNS but were afraid to ask 🥰
 This repo is going to update frequently.
 Welcome any advice or questions, feel free to send emails to connect with me.
 
+> * means theoretical papers.
+
 # Papers
 ## Information Retrieval
 [ICLR'21] Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval. [blog](https://zhuanlan.zhihu.com/p/685457581)
@@ -86,6 +88,8 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 [arxiv'24] Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search.
 
 [CVPR'18] Link and code: Fast indexing with graphs and compact regression codes. [blog](https://whenever5225.github.io/2021/10/30/Link_and_code_2021/)
+
+[NIPS'24] *Navigable Graphs for High-Dimensional Nearest Neighbor Search: Constructions and Limits.
 
 
 ## Quantization
