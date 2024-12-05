@@ -73,7 +73,7 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 ## Graph
 [WWW'11] Efficient K-Nearest Neighbor Graph Construction for Generic Similarity Measures. [blog](https://blog.csdn.net/whenever5225/article/details/105598694)
 
-[PR'19] Hierarchical Clustering-Based Graphs for Large Scale Approximate Nearest Neighbor Search. [blog](https://whenever5225.github.io/2019/08/17/HCNNG/)
+[PR'19] Hierarchical Clustering-Based Graphs for Large Scale Approximate Nearest Neighbor Search. [blog](https://whenever5225.github.io/2019/08/17/HCNNG/) [own blog](https://zhuanlan.zhihu.com/p/914563083)
 
 [WSDM'22] GraSP: Optimizing Graph-based Nearest Neighbor Search with Subgraph Sampling and Pruning. [blog](https://blog.csdn.net/whenever5225/article/details/123945859)
 
@@ -87,7 +87,7 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 [arxiv'24] Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search.
 
-[CVPR'18] Link and code: Fast indexing with graphs and compact regression codes. [blog](https://whenever5225.github.io/2021/10/30/Link_and_code_2021/) [owm blog](https://zhuanlan.zhihu.com/p/914563083)
+[CVPR'18] Link and code: Fast indexing with graphs and compact regression codes. [blog](https://whenever5225.github.io/2021/10/30/Link_and_code_2021/) 
 
 [NIPS'24] *Navigable Graphs for High-Dimensional Nearest Neighbor Search: Constructions and Limits.
 
