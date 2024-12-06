@@ -91,6 +91,8 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 [NIPS'24] *Navigable Graphs for High-Dimensional Nearest Neighbor Search: Constructions and Limits.
 
+[arxiv'16] EFANNA : An Extremely Fast Approximate Nearest Neighbor Search Algorithm Based on kNN Graph. [blog](https://whenever5225.github.io/2019/09/21/efanna1/)
+
 
 ## Quantization
 [CVPR'12] The Inverted Multi-Index. [blog1](https://zhuanlan.zhihu.com/p/628850724) [blog2](https://zhuanlan.zhihu.com/p/130792944)
