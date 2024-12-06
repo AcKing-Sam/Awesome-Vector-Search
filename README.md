@@ -144,4 +144,6 @@ https://changkun.de/modern-cpp/
 [SVD](https://www.bilibili.com/video/BV1ExWxesEVf/)
 
 # Implementation
+## [hnswlib](https://github.com/nmslib/hnswlib)
+Good blog for source code analysis: https://zhuanlan.zhihu.com/p/642713540.
 
