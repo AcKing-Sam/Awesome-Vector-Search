@@ -145,5 +145,8 @@ https://changkun.de/modern-cpp/
 
 # Implementation
 ## [hnswlib](https://github.com/nmslib/hnswlib)
-Good blog for source code analysis: https://zhuanlan.zhihu.com/p/642713540.
+Good blogs for source code analysis: 
+- https://zhuanlan.zhihu.com/p/642713540
+- https://blog.csdn.net/u010246947/article/details/123298675
+- https://blog.csdn.net/qq_38156298/article/details/100085892
 
