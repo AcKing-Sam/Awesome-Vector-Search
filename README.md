@@ -9,12 +9,10 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 ## Information Retrieval
 [ICLR'21] Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval. [blog](https://zhuanlan.zhihu.com/p/685457581)
 
-## Sparse Vector
 [SIGIR'24] Efficient Inverted Indexes for Approximate Retrieval over Learned Sparse Representations.
 
 [CIKM'24] Pairing Clustered Inverted Indexes with 𝜅-NN Graphs for Fast Approximate Retrieval over Learned Sparse Representations.
 
-## Saerch
 [KDD'20] Embedding-based Retrieval in Facebook Search. [blog](https://wulc.me/2020/08/30/%E3%80%8AEmbedding-based%20Retrieval%20in%20Facebook%20Search%E3%80%8B%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/)
 
 ## Disk or Second-tier Memory
