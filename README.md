@@ -6,6 +6,9 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 > * means theoretical papers.
 
 # Papers
+## GPU-accelerated
+[ICDE'24] CAGRA: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs. [blog](https://wanger-sjtu.github.io/CARGA/)
+
 ## Information Retrieval
 [ICLR'21] Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval. [blog](https://zhuanlan.zhihu.com/p/685457581)
 
