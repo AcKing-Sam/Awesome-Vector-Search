@@ -100,6 +100,8 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 [TPAMI'10] Product Quantization for Nearest Neighbor Search.
 
+[CVPR'14] Additive Quantization for Extreme Vector Compression.
+
 ## Tree
 
 ## OOD
