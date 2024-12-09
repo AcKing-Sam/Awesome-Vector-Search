@@ -102,6 +102,8 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 [CVPR'14] Additive Quantization for Extreme Vector Compression.
 
+[arxiv'18] A Survey of Product Quantization. (Mainly talked about OPQ, AQ and CQ.)
+
 ## Tree
 
 ## OOD
