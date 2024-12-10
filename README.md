@@ -113,7 +113,7 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 [ICDE'24] Efficient Approximate Maximum Inner Product Search over Sparse Vectors.
 
-[SIGIR'24] 
+[AAAI'20] Understanding and Improving Proximity Graph based Maximum Inner Product Search.
 
 ### Good blogs
 https://zhuanlan.zhihu.com/p/133526632
