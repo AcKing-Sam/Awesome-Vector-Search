@@ -23,23 +23,19 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 [SIGMOD'24] Starling: An I/O-Efficient Disk-Resident Graph Index Framework for High-Dimensional Vector Similarity Search on Data Segment.
 
-[CIKM'19] GRIP: Multi-Store Capacity-Optimized High-Performance Nearest Neighbor Search for Vector Search Engine.
+[CIKM'19] GRIP: Multi-Store Capacity-Optimized High-Performance Nearest Neighbor Search for Vector Search Engine. [blog](https://blog.csdn.net/whenever5225/article/details/126263684)
 
 [ArXiv'24] Characterizing the Dilemma of Performance and Index Size in Billion-Scale Vector Search and Breaking It with Second-Tier Memory.
+
+[NIPS'20] HM-ANN: Efficient Billion-Point Nearest Neighbor Search on Heterogeneous Memory. [blog](https://zhuanlan.zhihu.com/p/398199711)
+
+[BD'23] LM-DiskANN: Low Memory Footprint in Disk-Native Dynamic Graph-Based ANN Indexing. 
 
 ## Multi-core
 
 [PPoPP'23] iQAN : Fast and Accurate Vector Search with Efficient Intra-Query Parallelism on Multi-Core Architectures.
 
 [PPoPP'24] ParlayANN: Scalable and Deterministic Parallel Graph-Based Approximate Nearest Neighbor Search Algorithms.
-
-
-## Disk-memory
-[CIKM'19] GRIP: Multi-Store Capacity-Optimized High-Performance Nearest Neighbor Search for Vector Search Engine. [blog](https://blog.csdn.net/whenever5225/article/details/126263684)
-
-[NIPS'20] HM-ANN: Efficient Billion-Point Nearest Neighbor Search on Heterogeneous Memory. [blog](https://zhuanlan.zhihu.com/p/398199711)
-
-[BD'23] LM-DiskANN: Low Memory Footprint in Disk-Native Dynamic Graph-Based ANN Indexing. 
 
 ## Learned
 [SIGMOD'18] The Case For Learned Index Structures.
