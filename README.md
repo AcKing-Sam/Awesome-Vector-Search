@@ -54,6 +54,10 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 [DAC'24] Leanor: A Learning-Based Accelerator for Efficient Approximate Nearest Neighbor Search via Reduced Memory Access.
 
+[NIPS'22] A Multilabel Classification Framework for Approximate Nearest Neighbor Search.
+
+[NIPS'24] LoRANN: Low-rank matrix factorization for approximate nearest neighbor search.
+
 
 ### Knowledge Distillation of Indexes
 [NIPS'23] Knowledge Distillation for High Dimensional Search Index.
