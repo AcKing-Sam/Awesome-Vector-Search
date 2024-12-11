@@ -42,13 +42,18 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 [BD'23] LM-DiskANN: Low Memory Footprint in Disk-Native Dynamic Graph-Based ANN Indexing. 
 
 ## Learned
-[SIGMOD'18] The Case For Learned Index Structures. [blog]()
+[SIGMOD'18] The Case For Learned Index Structures.
 
 [ICLR'20] Learning Space Partitions for Nearest Neighbor Search. [blog](https://www.modb.pro/db/1694305444256894976)
 
 [TPAMI'19] Learning to Index for Nearest Neighbor Search. 
 
-[ICML'19] Learning to Route in Similarity Graphs. 
+[ICML'19] Learning to Route in Similarity Graphs.
+
+[SIGIR'24] A Learning-to-Rank Formulation of Clustering-Based Approximate Nearest Neighbor Search.
+
+[DAC'24] Leanor: A Learning-Based Accelerator for Efficient Approximate Nearest Neighbor Search via Reduced Memory Access.
+
 
 ### Knowledge Distillation of Indexes
 [NIPS'23] Knowledge Distillation for High Dimensional Search Index.
