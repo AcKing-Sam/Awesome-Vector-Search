@@ -162,8 +162,7 @@ https://changkun.de/modern-cpp/
 https://ann-benchmarks.com
 
 ## [hnswlib](https://github.com/nmslib/hnswlib)
-Good blogs for source code analysis: 
+Good blogs for hnsw source code analysis: 
 - https://zhuanlan.zhihu.com/p/642713540
-- https://blog.csdn.net/u010246947/article/details/123298675
-- https://blog.csdn.net/qq_38156298/article/details/100085892
+- https://blog.csdn.net/u010246947/article/details/123298675 <- good
 
