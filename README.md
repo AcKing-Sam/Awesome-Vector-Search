@@ -77,6 +77,8 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 
 ## Graph
+[WWW'23] FINGER: Fast Inference for Graph-based Approximate Nearest Neighbor Search. [blog](https://zhuanlan.zhihu.com/p/720542707)
+
 [WWW'11] Efficient K-Nearest Neighbor Graph Construction for Generic Similarity Measures. [blog](https://blog.csdn.net/whenever5225/article/details/105598694)
 
 [PR'19] Hierarchical Clustering-Based Graphs for Large Scale Approximate Nearest Neighbor Search. [blog](https://whenever5225.github.io/2019/08/17/HCNNG/) [own blog](https://zhuanlan.zhihu.com/p/914563083)
