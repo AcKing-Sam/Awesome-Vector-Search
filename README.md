@@ -54,6 +54,8 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 [NIPS'24] LoRANN: Low-rank matrix factorization for approximate nearest neighbor search.
 
+[VLDB'23] LIDER: An Efficient High-dimensional Learned Index for Large-scale Dense Passage Retrieval. 
+
 
 ### Knowledge Distillation of Indexes
 [NIPS'23] Knowledge Distillation for High Dimensional Search Index.
