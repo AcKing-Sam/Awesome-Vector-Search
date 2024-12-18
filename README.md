@@ -40,6 +40,8 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 ## Learned
 [SIGMOD'18] The Case For Learned Index Structures.
 
+[VLDB'23] Learned Index: A Comprehensive Experimental Evaluation.
+
 [ICLR'20] Learning Space Partitions for Nearest Neighbor Search. [blog](https://www.modb.pro/db/1694305444256894976)
 
 [TPAMI'19] Learning to Index for Nearest Neighbor Search. 
