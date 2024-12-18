@@ -58,6 +58,10 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 [VLDB'23] LIDER: An Efficient High-dimensional Learned Index for Large-scale Dense Passage Retrieval. 
 
+[SIGKDD'22] BLISS: A Billion scale Index using Iterative Re-partitioning.
+
+[SIGKDD'23] Learning Balanced Tree Indexes for Large-Scale Vector Retrieval. [blog](https://zhuanlan.zhihu.com/p/702262713)
+
 
 ### Knowledge Distillation of Indexes
 [NIPS'23] Knowledge Distillation for High Dimensional Search Index.
