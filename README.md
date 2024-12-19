@@ -117,7 +117,9 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 
 [CVPR'14] Additive Quantization for Extreme Vector Compression.
 
-[arxiv'18] A Survey of Product Quantization. (Mainly talked about OPQ, AQ and CQ.)
+[arxiv'18] A Survey of Product Quantization. *Mainly talked about OPQ, AQ and CQ*
+
+[VLDB'18] HD-Index: Pushing the Scalability-Accuracy Boundary for Approximate kNN Search in High-Dimensional Spaces. [blog](https://blog.csdn.net/zj_18706809267/article/details/125045134)
 
 ## Tree
 
