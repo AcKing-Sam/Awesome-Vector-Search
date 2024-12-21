@@ -136,7 +136,9 @@ Welcome any advice or questions, feel free to send emails to connect with me.
 https://zhuanlan.zhihu.com/p/133526632
 
 # Books
+High-Dimensional Probability and Applications in Data Science. [link](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)
 
+Foundations of Vector Retrieval. [link](https://arxiv.org/abs/2401.09350)
 
 # Blogs & Talks & Tutorials
 ## Tools
